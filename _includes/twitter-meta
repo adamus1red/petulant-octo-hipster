@@ -1,8 +1,7 @@
-    {% assign social_media = site.social_media[twitter] %}
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{social_media.name}}">
-    <meta name="twitter:creator" content="{{social_media.creator}}"/>
-    <meta name="twitter:title" content="{{social_media.title}}">
-    <meta name="twitter:description" content="{{social_media.description}}">
+    <meta name="twitter:site" content="@{{site.twitter_name}}">
+    <meta name="twitter:creator" content="{{site.twitter_creator}}"/>
+    <meta name="twitter:title" content="{{site.twitter_title}}">
+    <meta name="twitter:description" content="{{site.twitter_description}}">
     <meta name="twitter:image" content="{{site.staticurl}}/images/strathseds-logo.jpg">
-    <meta name="twitter:domain" content="{{social_media.domain}}">
+    <meta name="twitter:domain" content="{{site.twitter_domain}}">

@@ -46,20 +46,13 @@ analyticsID: UA-39702307-1
 analyticsDomain: example.org
 
 # Social Links
-social_medias: [twitter, facebook]
-social_media:
-  twitter:
-    type: twitter
-    name: example
-    creator: @example
-    title: Title or long name
-    description: Long description
-    domain: example.com
-    url: 'http://twitter.com/example'
-  facebook:
-    type: facebook
-    url: 'http://facebook.com/example'
+twitter_name: example
+twitter_creator: @example
+twitter_title: Strathclyde Jazz band
+twitter_description: We can make music
+twitter_domain: example.com
 
+facebook_page_name: example
 # Misc
 future: false
 
