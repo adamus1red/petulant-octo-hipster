@@ -15,7 +15,7 @@ contact_email: contact@example.org
 web_email: webmaster@example.org
 
 # Committee data
-committee_positions: [president, vicepresident, secretary, cto, outreach, funding, social]
+committee_positions: [president, secretary]
 committee:
   president:
     name: John Doe
@@ -29,6 +29,7 @@ committee:
     position: Secretary/Treasurer
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+domain: geeksoc.org/~amcghie
 baseurl: http://geeksoc.org/~amcghie/strath-jazz
 url: http://geeksoc.org/~amcghie/strath-jazz/
 projecturl: http://geeksoc.org/~amcghie/strath-jazz/projects/
@@ -43,6 +44,21 @@ joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Y
 # Google analytics id
 analyticsID: UA-39702307-1
 analyticsDomain: example.org
+
+# Social Links
+social_medias: [twitter, facebook]
+social_media:
+  twitter:
+    type: twitter
+    name: example
+    creator: @example
+    title: Title or long name
+    description: Long description
+    domain: example.com
+    url: 'http://twitter.com/example'
+  facebook:
+    type: facebook
+    url: 'http://facebook.com/example'
 
 # Misc
 future: false
