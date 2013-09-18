@@ -1,5 +1,6 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Strathclyde Jazz Band
+short_name: ScJB
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Students for the Exploration and Development of Jazz
@@ -38,14 +39,14 @@ projecturl: http://geeksoc.org/~amcghie/strath-jazz/projects/
 staticurl: http://geeksoc.org/~amcghie/strath-jazz/static
 imageurl: http://geeksoc.org/~amcghie/strath-jazz/static/images/
 
-# Link to the strathseds google doc
-joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Ye6W_CM/viewform?embedded=true
+# Link to the student signup google doc
+joinlink: https://docs.google.com/forms/d/1frY2DfFeTDjMkS7TzyBqDC2bLxy73Mx9iKHkJFmDEOs/viewform?embedded=true
 
 # Google analytics id
 analyticsID: UA-39702307-1
 analyticsDomain: example.org
 
-# Social Links
+# Social stuff
 twitter_name: example
 twitter_creator: @example
 twitter_title: Strathclyde Jazz band
@@ -53,6 +54,7 @@ twitter_description: We can make music
 twitter_domain: example.com
 
 facebook_page_name: example
+
 # Misc
 future: false
 

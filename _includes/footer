@@ -4,7 +4,7 @@
             <a href="http://www.facebook.com/{{site.facebook_page_name}}"><img src="{{site.staticurl}}/images/icons/facebook.png" width="24" height="24"></a>
             </span>
             <span class="pull-right">
-            &#169; StrathSEDS {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about/">About {{site.name}}</a><br /><span class="text-muted">Hosted by <a href="http://geeksoc.org/">GeekSoc</a></span>
+            &#169; {{site.short_name}} {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about/">About {{site.short_name}}</a><br /><span class="text-muted">Hosted by <a href="http://geeksoc.org/">GeekSoc</a></span>
             </span>
             </p>
       </div>
