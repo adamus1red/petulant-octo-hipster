@@ -1,74 +1,48 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: StrathSEDS
+name: Strathclyde Jazz Band
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Students for the Exploration and Development of Space
+description: Students for the Exploration and Development of Jazz
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: StrathSED
+author: ScJB
 
 # Logo image
-logo: http://www.strathseds.org/static/images/logos/strathseds-200px.png
+logo: http://geeksoc.org/~amcghie/strath-jazz/static/images/logos/strathseds-200px.png
 
 # Your email if you want it to be linked on the contact page
-contact_email: contact@strathseds.org
-web_email: webmaster@strathseds.org
+contact_email: contact@example.org
+web_email: webmaster@example.org
 
 # Committee data
 committee_positions: [president, vicepresident, secretary, cto, outreach, funding, social]
 committee:
   president:
-    name: Mark Stewart
+    name: John Doe
     gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: president@strathseds.org
+    email: president@example.org
     position: President
-  vicepresident:
-    name: Neal Stokes
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: vicepresident@strathseds.org
-    position: Vice-president
   secretary:
-    name: Iain Taylor
+    name: Jane Doe
     gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: contact@strathseds.org
+    email: contact@example.org
     position: Secretary/Treasurer
-  cto:
-    name: Adam McGhie
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: cto@strathseds.org
-    position: Chief Technology Officer
-  outreach:
-    name: Michael Doroszenko
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: contact@strathseds.org
-    position: Outreach Coordinator
-  funding:
-    name: Ruaridh Clark
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: contact@strathseds.org
-    position: Funding Coordinator
-  social:
-    name: Benjamin Turner
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: contact@strathseds.org
-    position: Social Coordinator
-  
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-baseurl: http://www.strathseds.org
-url: http://www.strathseds.org/
-projecturl: http://www.strathseds.org/projects/
+baseurl: http://geeksoc.org/~amcghie/strath-jazz
+url: http://geeksoc.org/~amcghie/strath-jazz/
+projecturl: http://geeksoc.org/~amcghie/strath-jazz/projects/
 
 # Static URL's
-staticurl: http://www.strathseds.org/static
-imageurl: http://www.strathseds.org/static/images/
+staticurl: http://geeksoc.org/~amcghie/strath-jazz/static
+imageurl: http://geeksoc.org/~amcghie/strath-jazz/static/images/
 
 # Link to the strathseds google doc
 joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Ye6W_CM/viewform?embedded=true
 
 # Google analytics id
 analyticsID: UA-39702307-1
-analyticsDomain: strathseds.org
+analyticsDomain: example.org
 
 # Misc
 future: false
